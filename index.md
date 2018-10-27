@@ -5,4 +5,4 @@
 <Los medios en Colombia no pagan>
 <div>
 <iframe id="datawrapper-chart-ClJOv" src="//datawrapper.dwcdn.net/ClJOv/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="708"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["ClJOv"]={},window.datawrapper["ClJOv"].embedDeltas={"100":833,"200":758,"300":733,"400":733,"500":708,"700":708,"800":708,"900":708,"1000":708},window.datawrapper["ClJOv"].iframe=document.getElementById("datawrapper-chart-ClJOv"),window.datawrapper["ClJOv"].iframe.style.height=window.datawrapper["ClJOv"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["ClJOv"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("ClJOv"==b)window.datawrapper["ClJOv"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
-</div>
+ </div>
